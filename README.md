@@ -65,17 +65,19 @@ $ yarn serve
 
 Documentation on Gitbook: https://eventdao.gitbook.io/eventdao/
 
-9. Recorded pitch ( please send it also to iwo@milkomeda.com)
+## 9. Recorded pitch ( please send it also to iwo@milkomeda.com)
 TODO: add a link
 
-10. Smart-contracts
-Smart contracts are located inside: [contracts/](contracts/)
+## 10. Smart-contracts
+Main smart contract for EventDAO is deployed on Milkomeda devnet at address `0x3C6B46819794e84C45A8435642174A4eA309e8e6` ([Link to the verified smart contract in the milkomeda BlockScount explorer](https://explorer-devnet-cardano-evm.c1.milkomeda.com/address/0x3C6B46819794e84C45A8435642174A4eA309e8e6/contracts#address-tabs))
 
-To deploy smart contracts on milkomeda:
+Smart contracts source code is located in: [contracts/](contracts/)
+
+### To deploy smart contracts on milkomeda:
 1. Prepare .env file similar to `example.env` with your private key (env. `PRIVATE_KEY=0x123...`)
 2. Run the following command `npx hardhat run scripts/deploy.js --network milkomeda`
 
-11. Frontend code (if applicable)
+## 11. Frontend code (if applicable)
 
 Front-end code is located in the [src/](src/) folder.
 The front-end has the following routes:
@@ -96,7 +98,7 @@ The front-end app has the following components:
 - Welcome.vue
 - BlockchainAddress.vue
 
-12. Screens / graphic materials (optional)
+## 12. Screens / graphic materials (optional)
 
 ### Main screen
 <img width="1278" alt="Screenshot 2022-09-26 at 23 47 11" src="https://user-images.githubusercontent.com/114422762/192386629-dd39b13a-7484-4ff0-a4f7-b730928f2b9e.png">
