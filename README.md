@@ -97,5 +97,27 @@ The front-end app has the following components:
 - BlockchainAddress.vue
 
 12. Screens / graphic materials (optional)
+
+### Main screen
+<img width="1278" alt="Screenshot 2022-09-26 at 23 47 11" src="https://user-images.githubusercontent.com/114422762/192386629-dd39b13a-7484-4ff0-a4f7-b730928f2b9e.png">
+
+### Selected DAO view
+
+<img width="1278" alt="Screenshot 2022-09-26 at 23 47 45" src="https://user-images.githubusercontent.com/114422762/192386692-caf394ea-e485-4ccc-830b-0af5a075e444.png">
+
+### Events search bar
+
+<img width="952" alt="Screenshot 2022-09-26 at 23 48 18" src="https://user-images.githubusercontent.com/114422762/192386757-4ddb66fc-3335-426f-8aea-4d6f330e6542.png">
+
+### DAO members list
+<img width="1278" alt="Screenshot 2022-09-26 at 23 48 57" src="https://user-images.githubusercontent.com/114422762/192386844-736bdfff-02b7-4f84-be8a-2959f72840ea.png">
+
+### Votings view
+<img width="1275" alt="Screenshot 2022-09-26 at 23 49 18" src="https://user-images.githubusercontent.com/114422762/192386906-88b2069c-fc23-4fa5-9b25-3b66a1e1881b.png">
+
+### Event proposal view
+<img width="882" alt="Screenshot 2022-09-26 at 23 50 08" src="https://user-images.githubusercontent.com/114422762/192387029-fd907752-9581-4fe3-acca-a554fbbc6812.png">
+
+
 - [Designs on figma](https://www.figma.com/file/zwDoAg7cs2YfrY4IMQC6B1/Milkomeda-Hackathon?node-id=0%3A1)
 
