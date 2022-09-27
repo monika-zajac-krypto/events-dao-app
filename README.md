@@ -66,7 +66,7 @@ $ yarn serve
 Documentation on Gitbook: https://eventdao.gitbook.io/eventdao/
 
 ## 9. Recorded pitch ( please send it also to iwo@milkomeda.com)
-TODO: add a link
+https://youtu.be/D7oUin2_gcM
 
 ## 10. Smart-contracts
 Main smart contract for EventDAO is deployed on Milkomeda devnet at address `0x3C6B46819794e84C45A8435642174A4eA309e8e6` ([Link to the verified smart contract in the milkomeda BlockScount explorer](https://explorer-devnet-cardano-evm.c1.milkomeda.com/address/0x3C6B46819794e84C45A8435642174A4eA309e8e6/contracts#address-tabs))
