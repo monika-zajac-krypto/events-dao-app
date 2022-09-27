@@ -25,7 +25,7 @@ Our tool also offers internal and external crowdfunding options making finance m
 
 A proper tool for bottom-up event organization will result in more quality events wherever there are communities willing to meet.
 
-## 5. Tech stack used (e.g. Web3 Js, Solidity, Truffle, Ipfs)
+## 5. Tech stack used
 - Solidity (smart contracts)
 - Hardhat (smart contracts framework)
 - Javascript (main language)
@@ -37,7 +37,7 @@ A proper tool for bottom-up event organization will result in more quality event
 ## 6. Payment Address (USDC on Milkomeda)
 0x978e08c5fF1375b5429F7c4F18cb127b99Cb2c1C
 
-## 7. The website link (if applicable)
+## 7. The website link
 https://events-dao.vercel.app/
 
 ## 8. Documentation on how to run the project
@@ -65,7 +65,7 @@ $ yarn serve
 
 Documentation on Gitbook: https://eventdao.gitbook.io/eventdao/
 
-## 9. Recorded pitch ( please send it also to iwo@milkomeda.com)
+## 9. Recorded pitch
 https://youtu.be/D7oUin2_gcM
 
 ## 10. Smart-contracts
@@ -77,7 +77,7 @@ Smart contracts source code is located in: [contracts/](contracts/)
 1. Prepare .env file similar to `example.env` with your private key (env. `PRIVATE_KEY=0x123...`)
 2. Run the following command `npx hardhat run scripts/deploy.js --network milkomeda`
 
-## 11. Frontend code (if applicable)
+## 11. Frontend code
 
 Front-end code is located in the [src/](src/) folder.
 The front-end has the following routes:
@@ -98,7 +98,7 @@ The front-end app has the following components:
 - Welcome.vue
 - BlockchainAddress.vue
 
-## 12. Screens / graphic materials (optional)
+## 12. Screens / graphic materials
 
 ### Main screen
 <img width="1278" alt="Screenshot 2022-09-26 at 23 47 11" src="https://user-images.githubusercontent.com/114422762/192386629-dd39b13a-7484-4ff0-a4f7-b730928f2b9e.png">
