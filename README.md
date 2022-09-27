@@ -40,7 +40,7 @@ A proper tool for bottom-up event organization will result in more quality event
 ## 7. The website link (if applicable)
 https://events-dao.vercel.app/
 
-8. Documentation on how to run the project
+## 8. Documentation on how to run the project
 
 ### Install dependencies
 ```sh
