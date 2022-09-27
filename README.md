@@ -51,7 +51,7 @@ $ yarn install
 ### How to deploy smart contracts on milkomeda
 ```sh
 $ npx hardhat run scripts/deploy.js --network milkomeda
-###
+```
 
 ### Run smart contracts tests
 ```sh
